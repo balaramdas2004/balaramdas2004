@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on web-based projects using HTML, CSS, JavaScript, and React, with a focus on building user-friendly interfaces and real-world applications. I’m also improving my problem-solving skills through regular coding practice.<br>👯 I’m looking to collaborate on frontend web development projects, open-source contributions, and student-level projects related to web apps, UI/UX, and JavaScript frameworks.<br>
 
 
