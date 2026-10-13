@@ -1,5 +1,14 @@
-#  About Me:
-🔭 I’m currently working on web-based projects using HTML, CSS, JavaScript, and React, with a focus on building user-friendly interfaces and real-world applications. I’m also improving my problem-solving skills through regular coding practice.<br>👯 I’m looking to collaborate on frontend web development projects, open-source contributions, and student-level projects related to web apps, UI/UX, and JavaScript frameworks.<br>
+## 👋 About Me
+
+💻 I'm a software developer focused on Java programming, problem-solving, and building practical applications.
+
+☕ Currently strengthening my Core Java, OOP, and DSA skills through hands-on coding practice and technical training at Naresh IT.
+
+🚀 Exploring backend development, full-stack technologies, and AI-powered applications.
+
+🎯 Committed to continuous learning, writing clean code, and developing real-world projects.
+
+🤝 Interested in collaborating on software development and open-source projects.
 
 
 ## 🌐 Socials:
