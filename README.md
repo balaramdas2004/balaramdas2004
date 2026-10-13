@@ -1,14 +1,17 @@
-## 👋 About Me
+## 👨‍💻 About Me
 
-💻 I'm a software developer focused on Java programming, problem-solving, and building practical applications.
+Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate passionate about software development.
 
-☕ Currently strengthening my Core Java, OOP, and DSA skills through hands-on coding practice and technical training at Naresh IT.
+- ☕ **Currently Learning:** Java Full Stack Development at Naresh IT
+- 💻 **Core Skills:** Java, OOP, SQL, HTML, CSS & JavaScript
+- 🗄️ **Databases:** Oracle Database & MySQL
+- 🚀 **Interests:** Backend Development, Problem Solving & Building Real-World Applications
+- 🌱 **My Focus:** Strengthening my programming skills and developing practical projects
+- 🎯 **My Goal:** To become a skilled Java Full Stack Developer and build impactful software solutions
 
-🚀 Exploring backend development, full-stack technologies, and AI-powered applications.
+---
 
-🎯 Committed to continuous learning, writing clean code, and developing real-world projects.
-
-🤝 Interested in collaborating on software development and open-source projects.
+💡 *"Learning every day, coding with purpose, and building one project at a time."*
 
 
 ## 🌐 Socials:
