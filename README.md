@@ -58,12 +58,29 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
   <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=balaramdas2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=balaramdas2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaramdas2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">⚡ GITHUB COMMAND CENTER ⚡</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=balaramdas2004&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Code.+Commit.+Push.+Repeat.;Building+my+developer+journey." alt="Typing SVG" />
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=balaramdas2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaramdas2004&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>⚡ Learn • Build • Commit • Grow ⚡</b>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
