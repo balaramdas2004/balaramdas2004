@@ -1,0 +1,36 @@
+name: Live Activity Feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:          # manual run button
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 1) Writes your latest GitHub events between the START/END markers in README.md
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: "chore: update live activity feed"
+          MAX_LINES: 8
+
+      # 2) Changes the &v= number on the cards to today's date so the
+      #    image servers fetch fresh data instead of an old cached copy
+      - name: Refresh card cache
+        run: |
+          git pull --rebase
+          sed -i "s/&v=[0-9]*/\&v=$(date -u +%Y%m%d%H)/g" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh card cache" || exit 0
+          git push
