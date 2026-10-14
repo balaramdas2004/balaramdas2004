@@ -58,29 +58,35 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
   <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-<h1 align="center">⚡ GITHUB COMMAND CENTER ⚡</h1>
+<!-- animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">⚡ B A L A R A M ' S  🎯  G I T H U B   💻 A N A L Y T I C S</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Code.+Commit.+Push.+Repeat.;Building+my+developer+journey." alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balaramdas2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&ring_color=00f7ff&icon_color=00f7ff&border_radius=20" width="48%" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaramdas2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=20" width="48%" alt="Most used languages"/>
 </p>
 
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=balaramdas2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaramdas2004&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br>
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
 
 <p align="center">
-  <b>⚡ Learn • Build • Commit • Grow ⚡</b>
+  <img src="https://streak-stats.demolab.com/?user=balaramdas2004&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&background=0d1117&ring=00F7FF&fire=FF9F1C&currStreakLabel=00F7FF&border_radius=20" width="70%" alt="Current and longest contribution streak"/>
 </p>
+
+
+<!-- NEW: animated tagline (original text kept) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+COMMIT+%E2%80%A2+REPEAT" alt="Build Learn Commit Repeat"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>BUILD • LEARN • COMMIT • REPEAT</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
