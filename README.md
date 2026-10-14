@@ -61,21 +61,26 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
 <!-- animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" alt=""/>
 
-<h2 align="center">⚡ B A L A R A M ' S  🎯  G I T H U B   💻 A N A L Y T I C S</h2>
+<h2 align="center">⚡ B A L A R A M ' S   G I T H U B   A N A L Y T I C S</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaramdas2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&ring_color=00f7ff&icon_color=00f7ff&border_radius=20" width="48%" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaramdas2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=20" width="48%" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=balaramdas2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&ring_color=00f7ff&icon_color=00f7ff&border_radius=20&v=20261015" width="48%" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaramdas2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=20&v=20261015" width="48%" alt="Most used languages"/>
 </p>
 
 <h2 align="center">🔥 CONTRIBUTION STREAK</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=balaramdas2004&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&background=0d1117&ring=00F7FF&fire=FF9F1C&currStreakLabel=00F7FF&border_radius=20" width="70%" alt="Current and longest contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=balaramdas2004&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&background=0d1117&ring=00F7FF&fire=FF9F1C&currStreakLabel=00F7FF&border_radius=20&v=20261015" width="70%" alt="Current and longest contribution streak"/>
 </p>
 
+<h2 align="center">🛰️ LIVE ACTIVITY FEED</h2>
 
-<!-- NEW: animated tagline (original text kept) -->
+<p align="center"><i>Auto-updated every 30 minutes with my latest GitHub activity</i></p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+COMMIT+%E2%80%A2+REPEAT" alt="Build Learn Commit Repeat"/>
@@ -87,6 +92,7 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
