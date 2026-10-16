@@ -4,7 +4,7 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
 
 - ☕ **Currently Learning:** Java Full Stack Development at Naresh IT
 - 💻 **Core Skills:** Java, OOP, SQL, HTML, CSS & JavaScript
-- 🗄️ **Databases:** Oracle Database & MySQL
+- 🗄️ **Databases:** Oracle Database
 - 🚀 **Interests:** Backend Development, Problem Solving & Building Real-World Applications
 - 🌱 **My Focus:** Strengthening my programming skills and developing practical projects
 - 🎯 **My Goal:** To become a skilled Java Full Stack Developer and build impactful software solutions
