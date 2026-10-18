@@ -61,7 +61,7 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
 <!-- animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" alt=""/>
 
-<h2 align="center">⚡ B A L A R A M ' S   G I T H U B   A N A L Y T I C S</h2>
+<h2 align="center">⚡ B A L A R A M ' S 💻  G I T H U B   🚀A N A L Y T I C S</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balaramdas2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&ring_color=00f7ff&icon_color=00f7ff&border_radius=20&v=2026101816" width="48%" alt="GitHub statistics"/>
