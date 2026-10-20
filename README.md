@@ -93,6 +93,6 @@ Hi there! 👋 I'm **Balaram Das**, a B.Tech Information Technology graduate pas
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
 
-
+<!--read the Text Pattern and then understand the perpose of the -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
